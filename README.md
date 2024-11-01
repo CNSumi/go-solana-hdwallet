@@ -2,7 +2,8 @@
 > Solana HD Wallet derivations from [mnemonic] seed in Go (golang).
 
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cnsumi/go-solana-hdwallet/master/LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cnsumi/go-solana-hdwallet?)](https://goreportcard.com/report/github.com/cnsumi/go-solana-hdwallet)
+[![Go Report Card](https://goreportcard.com/badge/github.com/cnsumi/go-solana-hdwallet)](https://goreportcard.com/report/github.com/cnsumi/go-solana-hdwallet)
+[![GoDoc](https://godoc.org/github.com/cnsumi/go-solana-hdwallet?status.svg)](https://godoc.org/github.com/cnsumi/go-solana-hdwallet)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
 
